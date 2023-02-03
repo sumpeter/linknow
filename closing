@@ -1,0 +1,64 @@
+<div class="div">
+  <div class="div-2">
+    <picture>
+      <source
+        srcset="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8"
+        type="image/webp"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8"
+        srcset="https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FTEMP%2F4d782663a45d4aa58e06bcb51b4b5ac8"
+        class="image"
+      />
+    </picture>
+    <div class="builder-image-sizer image-sizer"></div>
+  </div>
+  <div class="div-3">闭站保护中，美好会如约而至……</div>
+</div>
+<style>
+  .div {
+    display: flex;
+    flex-direction: column;
+    max-width: 1620px;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 198px;
+    padding-right: 443px;
+    padding-bottom: 198px;
+    padding-left: 443px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .div-2 {
+    display: flex;
+    align-self: stretch;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 734px;
+  }
+  .image {
+    object-fit: cover;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .image-sizer {
+    width: 100%;
+    padding-top: 23.56948228882834%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .div-3 {
+    max-width: 540px;
+    margin-top: 301px;
+    color: rgba(61, 61, 61, 1);
+    font-size: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+    font-family: "MiSans", sans-serif;
+  }
+</style>
